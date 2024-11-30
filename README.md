@@ -1,2 +1,1 @@
-# paisseon.github.io
-My jailbreak tweak repo
+Repo Just For Fun
