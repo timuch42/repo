@@ -1,8 +1,8 @@
-Origin: Paisseon's Repo 
-Label: Paisseon's Repo
+Origin: Timych's Repo 
+Label: Timych's Repo
 Suite: stable
 Version: 1.0
 Codename: EMT
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: My personal repo for jailbreak tweaks
+Description: Timych Tech's repo (based on paisseon)
